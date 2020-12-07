@@ -1,0 +1,83 @@
+{
+ "geography":
+  [
+    {
+      "Question": "What is the longest river in South America?",
+      "answers": [
+        "Uruguay",
+        "Orinoco",
+        "Amazon",
+        "Cauca"
+      ],
+      "correct": "uruguay"
+    },
+    {
+      "Question": "What is the largest lake in Africa?",
+      "answers": [
+        "Tanganyika",
+        "Karita",
+        "Tana",
+        "Victoria"
+      ],
+      "correct": "victoria"
+    }
+  ],
+  "history":
+    [
+      {
+        "Question": "What sport’s hall of fame enshrined Abraham Lincoln for having a stellar record of just one loss?",
+        "answers": [
+          "Wrestling",
+          "Soccer",
+          "Swimming",
+          "Tennis"
+        ],
+        "correct": "wrestling"
+      },
+      {
+        "Question": "How many stars does the American Flag have?",
+        "answers": [
+          "forty",
+          "fifty",
+          "fiftyfive",
+          "fortyfive"
+        ],
+        "correct": "fifty"
+      }
+        ],
+  "cinema":
+  [
+    {
+      "Question": "What is the number one movie in IMDB?",
+      "answers": [
+        "Life is beautiful",
+        "Titanic",
+        "The Shawshank Redemption",
+        "Godfather"
+      ],
+      "correct": "shawshank redemption"
+    },
+    {
+      "Question": "Who played the character of McMurphy in movie One Flew Over the Cuckoo's Nest?",
+      "answers": [
+        "Leonardo Dicaprio",
+        "Marlon Brando",
+        "Jack Nicholson",
+        "Tom Hanks"
+      ],
+      "correct": "jack nicholson"
+    },
+        {
+      "Question": "Who is the most nominated actress for an Oscar?",
+      "answers": [
+        "Julia Roberts",
+        "Audrey Hepburn",
+        "Natalie Portman",
+        "Meryl Streep"
+      ],
+      "correct": "meryl streep"
+    }
+  ]
+}
+
+
